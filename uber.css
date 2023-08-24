@@ -14,7 +14,7 @@ body {
   Work section              
 -----------------------------------------*/
 
-#services .work-thumb {
+.services  {
   border-radius: 5px;
   margin-bottom: 15px;
   padding: 0;
@@ -25,12 +25,9 @@ body {
   transition: all ease-in-out 0.4s;
 }
 
-#services .work-thumb:hover {
-  background: #ffffff;
-  box-shadow: 0px 16px 22px 0px rgba(90, 91, 95, 0.3);
-  top: -5px;
+.services .img-responsive {
+  border-radius: 5px;
+width: 300px; /* Set the desired width */
+height: 200px; /* Set the desired height */
 }
 
-#services .work-thumb img {
-  border-radius: 5px;
-}
