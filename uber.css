@@ -1,16 +1,1 @@
-body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-}
-
-.background-image {
-    background-image: url('images/background-image.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    color: white; /* text color on top of the background */
-    padding: 100px;
-    text-align: center;
-}
 
