@@ -1,12 +1,14 @@
 body {
     background: #FFFFFF;
     color: #000000;
-    font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: UberMoveText, system-ui, Helvetica, Arial, sans-serif;
 }
 
 .hero {
     background-image: url('images/ubereats.jpg');
     background-size: cover;
+    width: 300px;
+    height: 200px; 
 
 }
 
@@ -27,7 +29,7 @@ body {
 
 .services .img-responsive {
   border-radius: 5px;
-width: 300px; /* Set the desired width */
-height: 200px; /* Set the desired height */
+width: 300px;
+height: 200px; 
 }
 
