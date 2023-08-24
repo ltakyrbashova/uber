@@ -10,9 +10,9 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     height: 100vh;
-    color: white;
+    color:  #000000;
     padding: 100px;
-    text-align: center;
+    text-align: left;
 
 }
 
