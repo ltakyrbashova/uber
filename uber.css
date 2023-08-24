@@ -14,7 +14,7 @@ body {
   Work section              
 -----------------------------------------*/
 
-#work .work-thumb {
+#services .work-thumb {
   border-radius: 5px;
   margin-bottom: 15px;
   padding: 0;
@@ -25,12 +25,12 @@ body {
   transition: all ease-in-out 0.4s;
 }
 
-#work .work-thumb:hover {
+#services .work-thumb:hover {
   background: #ffffff;
   box-shadow: 0px 16px 22px 0px rgba(90, 91, 95, 0.3);
   top: -5px;
 }
 
-#work .work-thumb img {
+#services .work-thumb img {
   border-radius: 5px;
 }
