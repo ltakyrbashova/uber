@@ -6,7 +6,6 @@ body {
 
 .hero {
     background-image: url('images/ubereats.jpg');
-
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
