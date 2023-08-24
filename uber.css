@@ -34,7 +34,7 @@ body {
 }
 
 .img-responsive {
-    max-width: 10%; 
-    height: auto; 
+    width: 100px; 
+    height: 100px; 
 }
 
