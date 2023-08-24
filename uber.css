@@ -27,9 +27,14 @@ body {
   transition: all ease-in-out 0.4s;
 }
 
-.services .img-responsive {
-  border-radius: 5px;
-width: 300px;
-height: 200px; 
+.photo-container  .img-responsive {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.photo-container img {
+    max-width: 30%; 
+    height: auto; 
 }
 
