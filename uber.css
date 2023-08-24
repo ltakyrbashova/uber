@@ -6,9 +6,14 @@ body {
 
 .hero {
     background-image: url('images/ubereats.jpg');
+
     background-size: cover;
-    width: 400px;
-    height: 516px; 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    color: white;
+    padding: 100px;
+    text-align: center;
 
 }
 
