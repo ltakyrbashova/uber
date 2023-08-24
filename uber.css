@@ -27,13 +27,13 @@ body {
   transition: all ease-in-out 0.4s;
 }
 
-.photo-container  .img-responsive {
+.photo-container   {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.photo-container img {
+..mg-responsive {
     max-width: 30%; 
     height: auto; 
 }
